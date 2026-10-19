@@ -1,0 +1,196 @@
+{
+  "title": "Conscience Collective Quantique",
+  "subtitle": "Physique quantique, champ d’information et devenir collectif de l’humanité",
+  "author": "Prof. Abderrahman EL HISSE",
+  "isbn": "978-9920-26-125-8",
+  "legalDeposit": "2026MO2139",
+  "sourceDate": "2026-09-08",
+  "movements": [
+    {
+      "id": 1,
+      "title": "Comprendre la conscience",
+      "range": "Chapitres 1 à 3",
+      "intro": "Partir de l’expérience du « je » pour examiner ce qui construit le « nous ».",
+      "chapters": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Explorer la physique moderne",
+      "range": "Chapitres 4 à 9",
+      "intro": "Donner aux mots quantique, temps et champ leur profondeur scientifique.",
+      "chapters": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Relier conscience et information",
+      "range": "Chapitres 10 à 12",
+      "intro": "Examiner le cadre de réflexion central du livre et ses changements de registre.",
+      "chapters": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Interroger notre devenir collectif",
+      "range": "Chapitres 13 à 19",
+      "intro": "Ouvrir la discussion sur le vivant, les croyances, les technologies et la civilisation.",
+      "chapters": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Qu'est-ce que la conscience ?",
+      "page": 23,
+      "summary": "Clarifier l’expérience vécue, la présence à soi et la question de la subjectivité.",
+      "question": "Qu’est-ce qui distingue une expérience vécue d’une information traitée ?"
+    },
+    {
+      "id": 2,
+      "title": "Les différents niveaux de conscience",
+      "page": 28,
+      "summary": "Explorer plusieurs modes de présence, sans les transformer en classement moral.",
+      "question": "Comment votre attention change-t-elle selon la situation ?"
+    },
+    {
+      "id": 3,
+      "title": "De la conscience collective classique à l'idée de champ",
+      "page": 37,
+      "summary": "Comprendre le rôle des valeurs, des récits et des représentations partagés dans un groupe.",
+      "question": "Quels récits influencent les décisions de votre communauté ?"
+    },
+    {
+      "id": 4,
+      "title": "Rupture quantique : de la physique classique à la physique quantique",
+      "page": 46,
+      "summary": "Revenir aux expériences qui ont rendu nécessaire un nouveau cadre physique.",
+      "question": "Pourquoi une théorie efficace peut-elle devoir être élargie ?"
+    },
+    {
+      "id": 5,
+      "title": "Principes clés de la physique quantique",
+      "page": 52,
+      "summary": "Découvrir dualité, superposition, intrication et incertitude avec leurs domaines de validité.",
+      "question": "Où s’arrête le résultat physique et où commence l’analogie ?"
+    },
+    {
+      "id": 6,
+      "title": "Particules subatomiques et structure de la réalité",
+      "page": 58,
+      "summary": "Passer de l’image des petites briques de matière aux particules, aux champs et aux interactions.",
+      "question": "Comment les champs modifient-ils notre représentation de la matière ?"
+    },
+    {
+      "id": 7,
+      "title": "La nature du temps",
+      "page": 69,
+      "summary": "Mettre en regard le temps mesuré, le temps vécu et la temporalité collective.",
+      "question": "Pourquoi une même durée peut-elle être vécue différemment ?"
+    },
+    {
+      "id": 8,
+      "title": "Crises actuelles en physique fondamentale",
+      "page": 79,
+      "summary": "Examiner les frontières des modèles : unification, matière sombre, énergie sombre et mesure.",
+      "question": "Comment accueillir une question ouverte sans lui inventer une réponse ?"
+    },
+    {
+      "id": 9,
+      "title": "Le champ quantique",
+      "page": 92,
+      "summary": "Clarifier le sens physique du champ et du vide avant toute extension du vocabulaire.",
+      "question": "Que signifie le mot champ lorsqu’un physicien l’emploie ?"
+    },
+    {
+      "id": 10,
+      "title": "Conscience et champ d'information",
+      "page": 98,
+      "summary": "Articuler information, relations et conscience dans un cadre de réflexion explicitement hypothétique.",
+      "question": "Comment l’information qui circule façonne-t-elle notre manière de penser ?"
+    },
+    {
+      "id": 11,
+      "title": "Conscience collective quantique",
+      "page": 108,
+      "summary": "Présenter le concept central comme une définition de travail et un cadre de lecture du collectif.",
+      "question": "Que rend visible ce cadre de lecture dans la vie d’un groupe ?"
+    },
+    {
+      "id": 12,
+      "title": "Harmonie, résonance et alignement",
+      "page": 118,
+      "summary": "Distinguer les sens physiques et les usages analogiques de ces mots dans l’expérience humaine.",
+      "question": "Vos actes, vos valeurs et votre attention vont-ils dans la même direction ?"
+    },
+    {
+      "id": 13,
+      "title": "Biologie quantique : état des lieux",
+      "page": 131,
+      "summary": "Examiner les mécanismes quantiques étudiés dans le vivant et les limites des extrapolations.",
+      "question": "Quelles observations faut-il pour soutenir une hypothèse sur le vivant ?"
+    },
+    {
+      "id": 14,
+      "title": "Guérison et champs de conscience",
+      "page": 137,
+      "summary": "Le livre interroge les dimensions biologiques, psychiques et relationnelles du soin, sans présenter le quantique comme une thérapie.",
+      "question": "Quelle place donner à l’écoute et au sens dans l’expérience du soin ?"
+    },
+    {
+      "id": 15,
+      "title": "Maîtrise de la relation esprit-corps",
+      "page": 142,
+      "summary": "Réfléchir à l’attention, aux interprétations, aux émotions et aux habitudes comme marges d’action.",
+      "question": "Quelle habitude d’attention souhaitez-vous mieux comprendre ?"
+    },
+    {
+      "id": 16,
+      "title": "Croyances culturelles, spiritualité et inconscient collectif",
+      "page": 147,
+      "summary": "Interroger les récits hérités, les symboles et leur rôle dans notre rapport au monde.",
+      "question": "Quelle croyance héritée mérite aujourd’hui d’être réexaminée ?"
+    },
+    {
+      "id": 17,
+      "title": "Machines quantiques et avantage quantique",
+      "page": 155,
+      "summary": "Situer les principes, les limites et les usages possibles du calcul quantique.",
+      "question": "Pourquoi une machine quantique n’accélère-t-elle pas tous les calculs ?"
+    },
+    {
+      "id": 18,
+      "title": "Intelligence artificielle et conscience",
+      "page": 160,
+      "summary": "Le chapitre distingue performance informatique, simulation du dialogue et expérience subjective.",
+      "question": "Quelles décisions humaines souhaitez-vous préserver à l’ère de l’IA ?"
+    },
+    {
+      "id": 19,
+      "title": "Scénarios pour une civilisation de conscience collective quantique",
+      "page": 170,
+      "summary": "Explorer des orientations possibles pour l’éducation, la technologie et la responsabilité collective.",
+      "question": "Quelle qualité de vie collective voulons-nous rendre possible ?"
+    }
+  ]
+}

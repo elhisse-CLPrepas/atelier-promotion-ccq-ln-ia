@@ -6,21 +6,228 @@
   "subtitle": "Physique quantique, champ d’information et devenir collectif de l’humanité.",
   "promise": "Un livre pour explorer les liens entre conscience, information et responsabilité collective, en distinguant faits scientifiques, hypothèses et analogies.",
   "audience": "Lecteurs curieux de la conscience, des sciences et des technologies ; enseignants, formateurs, accompagnateurs et professionnels.",
-  "benefits": ["Identifier les grandes questions de la conscience individuelle et collective.", "Clarifier les notions de physique moderne mobilisées dans le livre.", "Distinguer résultats scientifiques, hypothèses et analogies.", "Interroger les liens entre information, vivant et expérience humaine.", "Réfléchir aux enjeux de l’intelligence artificielle et des technologies quantiques.", "Nourrir une discussion argumentée sur notre avenir collectif."],
+  "benefits": [
+    "Identifier les grandes questions de la conscience individuelle et collective.",
+    "Clarifier les notions de physique moderne mobilisées dans le livre.",
+    "Distinguer résultats scientifiques, hypothèses et analogies.",
+    "Interroger les liens entre information, vivant et expérience humaine.",
+    "Réfléchir aux enjeux de l’intelligence artificielle et des technologies quantiques.",
+    "Nourrir une discussion argumentée sur notre avenir collectif."
+  ],
   "pathways": [
-    {"title":"Explorer la conscience","text":"Partir des questions de l’expérience individuelle pour ouvrir la réflexion sur le collectif."},
-    {"title":"Interroger la physique","text":"Repérer les notions de physique moderne et examiner la portée des analogies proposées."},
-    {"title":"Relier vivant et information","text":"Questionner la place de l’information dans notre lecture du vivant et de l’expérience humaine."},
-    {"title":"Penser notre avenir","text":"Mettre en discussion l’intelligence artificielle, les technologies quantiques et la responsabilité collective."}
+    {
+      "title": "Comprendre la conscience",
+      "text": "Chapitres 1 à 3 · Partir de l’expérience du « je » pour examiner ce qui construit le « nous »."
+    },
+    {
+      "title": "Explorer la physique moderne",
+      "text": "Chapitres 4 à 9 · Donner aux mots quantique, temps et champ leur profondeur scientifique."
+    },
+    {
+      "title": "Relier conscience et information",
+      "text": "Chapitres 10 à 12 · Examiner le cadre de réflexion central du livre et ses changements de registre."
+    },
+    {
+      "title": "Interroger notre devenir collectif",
+      "text": "Chapitres 13 à 19 · Ouvrir la discussion sur le vivant, les croyances, les technologies et la civilisation."
+    }
   ],
   "chapterCount": 19,
-  "chapters": [],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Qu'est-ce que la conscience ?",
+      "page": 23,
+      "summary": "Clarifier l’expérience vécue, la présence à soi et la question de la subjectivité.",
+      "question": "Qu’est-ce qui distingue une expérience vécue d’une information traitée ?",
+      "movement": 1
+    },
+    {
+      "number": 2,
+      "title": "Les différents niveaux de conscience",
+      "page": 28,
+      "summary": "Explorer plusieurs modes de présence, sans les transformer en classement moral.",
+      "question": "Comment votre attention change-t-elle selon la situation ?",
+      "movement": 1
+    },
+    {
+      "number": 3,
+      "title": "De la conscience collective classique à l'idée de champ",
+      "page": 37,
+      "summary": "Comprendre le rôle des valeurs, des récits et des représentations partagés dans un groupe.",
+      "question": "Quels récits influencent les décisions de votre communauté ?",
+      "movement": 1
+    },
+    {
+      "number": 4,
+      "title": "Rupture quantique : de la physique classique à la physique quantique",
+      "page": 46,
+      "summary": "Revenir aux expériences qui ont rendu nécessaire un nouveau cadre physique.",
+      "question": "Pourquoi une théorie efficace peut-elle devoir être élargie ?",
+      "movement": 2
+    },
+    {
+      "number": 5,
+      "title": "Principes clés de la physique quantique",
+      "page": 52,
+      "summary": "Découvrir dualité, superposition, intrication et incertitude avec leurs domaines de validité.",
+      "question": "Où s’arrête le résultat physique et où commence l’analogie ?",
+      "movement": 2
+    },
+    {
+      "number": 6,
+      "title": "Particules subatomiques et structure de la réalité",
+      "page": 58,
+      "summary": "Passer de l’image des petites briques de matière aux particules, aux champs et aux interactions.",
+      "question": "Comment les champs modifient-ils notre représentation de la matière ?",
+      "movement": 2
+    },
+    {
+      "number": 7,
+      "title": "La nature du temps",
+      "page": 69,
+      "summary": "Mettre en regard le temps mesuré, le temps vécu et la temporalité collective.",
+      "question": "Pourquoi une même durée peut-elle être vécue différemment ?",
+      "movement": 2
+    },
+    {
+      "number": 8,
+      "title": "Crises actuelles en physique fondamentale",
+      "page": 79,
+      "summary": "Examiner les frontières des modèles : unification, matière sombre, énergie sombre et mesure.",
+      "question": "Comment accueillir une question ouverte sans lui inventer une réponse ?",
+      "movement": 2
+    },
+    {
+      "number": 9,
+      "title": "Le champ quantique",
+      "page": 92,
+      "summary": "Clarifier le sens physique du champ et du vide avant toute extension du vocabulaire.",
+      "question": "Que signifie le mot champ lorsqu’un physicien l’emploie ?",
+      "movement": 2
+    },
+    {
+      "number": 10,
+      "title": "Conscience et champ d'information",
+      "page": 98,
+      "summary": "Articuler information, relations et conscience dans un cadre de réflexion explicitement hypothétique.",
+      "question": "Comment l’information qui circule façonne-t-elle notre manière de penser ?",
+      "movement": 3
+    },
+    {
+      "number": 11,
+      "title": "Conscience collective quantique",
+      "page": 108,
+      "summary": "Présenter le concept central comme une définition de travail et un cadre de lecture du collectif.",
+      "question": "Que rend visible ce cadre de lecture dans la vie d’un groupe ?",
+      "movement": 3
+    },
+    {
+      "number": 12,
+      "title": "Harmonie, résonance et alignement",
+      "page": 118,
+      "summary": "Distinguer les sens physiques et les usages analogiques de ces mots dans l’expérience humaine.",
+      "question": "Vos actes, vos valeurs et votre attention vont-ils dans la même direction ?",
+      "movement": 3
+    },
+    {
+      "number": 13,
+      "title": "Biologie quantique : état des lieux",
+      "page": 131,
+      "summary": "Examiner les mécanismes quantiques étudiés dans le vivant et les limites des extrapolations.",
+      "question": "Quelles observations faut-il pour soutenir une hypothèse sur le vivant ?",
+      "movement": 4
+    },
+    {
+      "number": 14,
+      "title": "Guérison et champs de conscience",
+      "page": 137,
+      "summary": "Le livre interroge les dimensions biologiques, psychiques et relationnelles du soin, sans présenter le quantique comme une thérapie.",
+      "question": "Quelle place donner à l’écoute et au sens dans l’expérience du soin ?",
+      "movement": 4
+    },
+    {
+      "number": 15,
+      "title": "Maîtrise de la relation esprit-corps",
+      "page": 142,
+      "summary": "Réfléchir à l’attention, aux interprétations, aux émotions et aux habitudes comme marges d’action.",
+      "question": "Quelle habitude d’attention souhaitez-vous mieux comprendre ?",
+      "movement": 4
+    },
+    {
+      "number": 16,
+      "title": "Croyances culturelles, spiritualité et inconscient collectif",
+      "page": 147,
+      "summary": "Interroger les récits hérités, les symboles et leur rôle dans notre rapport au monde.",
+      "question": "Quelle croyance héritée mérite aujourd’hui d’être réexaminée ?",
+      "movement": 4
+    },
+    {
+      "number": 17,
+      "title": "Machines quantiques et avantage quantique",
+      "page": 155,
+      "summary": "Situer les principes, les limites et les usages possibles du calcul quantique.",
+      "question": "Pourquoi une machine quantique n’accélère-t-elle pas tous les calculs ?",
+      "movement": 4
+    },
+    {
+      "number": 18,
+      "title": "Intelligence artificielle et conscience",
+      "page": 160,
+      "summary": "Le chapitre distingue performance informatique, simulation du dialogue et expérience subjective.",
+      "question": "Quelles décisions humaines souhaitez-vous préserver à l’ère de l’IA ?",
+      "movement": 4
+    },
+    {
+      "number": 19,
+      "title": "Scénarios pour une civilisation de conscience collective quantique",
+      "page": 170,
+      "summary": "Explorer des orientations possibles pour l’éducation, la technologie et la responsabilité collective.",
+      "question": "Quelle qualité de vie collective voulons-nous rendre possible ?",
+      "movement": 4
+    }
+  ],
   "faq": [
-    ["À qui s’adresse le livre ?", "Aux lecteurs curieux des liens entre conscience, sciences, technologies et vie collective."],
-    ["Faut-il être physicien ?", "Le parcours proposé permet de repérer les thèmes avant de choisir sa lecture ; certains passages demandent une attention soutenue."],
-    ["Que contient le livre ?", "Dix-neuf chapitres, de la conscience individuelle aux scénarios de civilisation. Le sommaire détaillé sera ajouté après vérification dans le livre."],
-    ["La conscience collective quantique est-elle un fait établi ?", "Le concept central du livre est présenté comme un cadre de réflexion. Les faits scientifiques, les hypothèses et les analogies doivent être distingués."],
-    ["Comment obtenir un exemplaire ?", "Les modalités d’acquisition ne sont pas encore disponibles sur cette page."],
-    ["Un espace lecteurs est-il disponible ?", "Un espace d’échanges est envisagé pour les possesseurs du livre, y compris lorsqu’il leur a été offert. Il n’est pas ouvert à ce stade."]
+    [
+      "À qui s’adresse le livre ?",
+      "Aux lecteurs curieux des liens entre conscience, sciences, technologies et vie collective."
+    ],
+    [
+      "Faut-il être physicien ?",
+      "Le parcours proposé permet de repérer les thèmes avant de choisir sa lecture ; certains passages demandent une attention soutenue."
+    ],
+    [
+      "Que contient le livre ?",
+      "Dix-neuf chapitres, de la conscience individuelle aux scénarios de civilisation. Le sommaire ci-dessus présente leurs thèmes et des questions de discussion."
+    ],
+    [
+      "La conscience collective quantique est-elle un fait établi ?",
+      "Le concept central du livre est présenté comme un cadre de réflexion. Les faits scientifiques, les hypothèses et les analogies doivent être distingués."
+    ],
+    [
+      "Comment obtenir un exemplaire ?",
+      "Les modalités d’acquisition ne sont pas encore disponibles sur cette page."
+    ],
+    [
+      "Un espace lecteurs est-il disponible ?",
+      "Un espace d’échanges est envisagé pour les possesseurs du livre, y compris lorsqu’il leur a été offert. Il n’est pas ouvert à ce stade."
+    ]
+  ],
+  "source": {
+    "url": "https://conscience-collective-quantique.elhisse.chatgpt.site/",
+    "retrieved": "2026-10-19",
+    "note": "Titres et pagination repris du site de présentation ; vérification dans le livre final restant à effectuer. Résumés, questions et répartition par mouvements : adaptations éditoriales."
+  },
+  "cover": "assets/couverture-complete.png",
+  "authorBio": "Professeur agrégé de physique en classes préparatoires aux grandes écoles d’ingénieurs, pédagogue et coach certifié, Abderrahman EL HISSE relie dans cet ouvrage plus de trente années d’enseignement scientifique, d’accompagnement humain et de recherche sur le sens.",
+  "posters": [
+    {
+      "file": "assets/affiche-conscience-collective-quantique.png",
+      "title": "Présentation du livre"
+    },
+    {
+      "file": "assets/affiche-club-de-lecture.png",
+      "title": "Invitation au dialogue entre lecteurs"
+    }
   ]
 }

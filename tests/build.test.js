@@ -17,3 +17,11 @@ test('Les ressources de production restent relatives au sous-chemin Pages', () =
   assert.ok(js.includes('book.json'));
   assert.ok(!html.includes('src="/assets/'));
 });
+
+test('La livraison contient la couverture et les deux affiches',()=>{
+  const book=JSON.parse(readFileSync('dist/book.json','utf8'));
+  for(const path of [book.cover,...book.posters.map(p=>p.file)]){
+    assert.ok(!path.startsWith('/')&&!path.includes('..'));
+    assert.ok(existsSync(resolve('dist',path)));
+  }
+});

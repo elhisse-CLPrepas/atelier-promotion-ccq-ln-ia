@@ -17,3 +17,6 @@ Source effectivement reçue : PROMPT-MAITRE-PERSONNEL.md, version 1.0.0. Copie d
 Le prompt comporte un paragraphe de preuves répété et une ligne de CTA fusionnée. Interprétation appliquée : ancre #chapitres comme seule action prioritaire. Aucun partenariat TIR / My-Community-IA annoncé.
 
 Pour finaliser : fournir le pack du 8 septembre 2026 ou le sommaire final, le guide, la couverture et le logo autorisés. Valider les parcours et la biographie. Renseigner les conditions commerciales uniquement si activation souhaitée.
+
+## Mise à jour 0.2.0
+Le site fourni a permis de récupérer les 19 titres et pages, les quatre mouvements, les résumés/questions, une biographie, la couverture et deux affiches. Voir ENRICHISSEMENT-SITE.md ; les statuts initiaux ci-dessus décrivent la version 0.1.0.

@@ -1,6 +1,6 @@
-# CCQ — version locale 0.1.0
+# CCQ — version locale 0.2.0
 
-Première présentation issue du PROMPT-MAITRE-PERSONNEL.md, datée du 19 octobre 2026. Publication non effectuée. Les titres des chapitres et les ressources originales manquent : cette version reste à valider.
+Première présentation issue du PROMPT-MAITRE-PERSONNEL.md, datée du 19 octobre 2026. Publication non effectuée. Enrichie depuis le site GPT Sites fourni : sommaire, couverture et affiches récupérés le 19 octobre 2026. Cette version reste à valider avant publication.
 
 ## Utilisation
 
@@ -25,7 +25,7 @@ Ouvrir l’URL affichée par Vite. Ne pas ouvrir index.html directement avec fil
 - src/style.css : mise en page responsive, bleu nuit et or.
 - src/config.js : état documentaire des services. Les indicateurs sont tous désactivés ; les activer seuls ne crée aucun service. Implémenter puis tester le contact après validation.
 
-Les quatre parcours sont des reformulations proposées, pas des intitulés extraits du livre. Aucun titre de chapitre n’a été inventé. Ajouter les titres vérifiés dans book.json et adapter la section correspondante dans main.js lorsque les sources seront fournies. La biographie détaillée attend l’accord de l’auteur. Le visuel abstrait CSS est une illustration et ne remplace pas la couverture officielle.
+Les quatre mouvements, les 19 titres et leurs pages sont repris du site de présentation. Résumés, questions et répartition des chapitres : adaptations éditoriales du site. La biographie est adaptée de la quatrième de couverture. Couverture et deux affiches sont hébergées localement dans public/assets. La vérification finale dans le livre reste à faire. Voir docs/ENRICHISSEMENT-SITE.md pour la provenance et les contrôles.
 
 ## Déploiement après validation humaine
 

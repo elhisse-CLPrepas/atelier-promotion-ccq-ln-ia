@@ -1,0 +1,13 @@
+{
+  "whatsappNumber": "",
+  "contactEmail": "",
+  "canonicalUrl": "",
+  "mainSiteUrl": "",
+  "apiBaseUrl": "",
+  "priceMAD": null,
+  "deliveryText": "Les modalités de remise et de livraison seront précisées lors de votre demande.",
+  "orderEnabled": false,
+  "communityEnabled": false,
+  "privacyContact": "",
+  "events": []
+}
