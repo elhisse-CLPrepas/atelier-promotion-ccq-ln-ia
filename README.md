@@ -1,4 +1,4 @@
-﻿# CCQ — version locale 0.1.0
+# CCQ — version locale 0.1.0
 
 Première présentation issue du PROMPT-MAITRE-PERSONNEL.md, datée du 19 octobre 2026. Publication non effectuée. Les titres des chapitres et les ressources originales manquent : cette version reste à valider.
 
@@ -11,6 +11,7 @@ npm.cmd ci
 npm.cmd run dev
 npm.cmd test
 npm.cmd run build
+npm.cmd run test:dist
 npm.cmd run preview
 ```
 
@@ -30,7 +31,8 @@ Les quatre parcours sont des reformulations proposées, pas des intitulés extra
 
 GitHub Pages : créer ou choisir un dépôt autorisé, ajouter son remote et pousser la version validée. Dans Settings / Pages, sélectionner GitHub Actions. Exécuter manuellement le workflow « Publier la version validée sur Pages ». Aucun déploiement automatique sur push. Configurer si possible une validation de l’environnement github-pages. Le base './' et le chargement relatif de book.json permettent le sous-chemin du dépôt.
 
-cPanel : npm.cmd ci puis npm.cmd run build ; sauvegarder l’existant, téléverser le contenu de dist/ dans le répertoire web retenu, sans node_modules ni les documents internes. Vérifier HTTPS, chemins, navigation et accès anonyme.
+cPanel : npm.cmd ci puis npm.cmd run build
+npm.cmd run test:dist ; sauvegarder l’existant, téléverser le contenu de dist/ dans le répertoire web retenu, sans node_modules ni les documents internes. Vérifier HTTPS, chemins, navigation et accès anonyme.
 
 Sites : aucune modification de l’adresse historique. Hébergement à choisir et autoriser après revue.
 

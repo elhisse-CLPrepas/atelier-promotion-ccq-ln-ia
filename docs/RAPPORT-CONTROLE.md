@@ -33,3 +33,5 @@ Récupérer et vérifier les 19 titres, le guide, les visuels officiels et la bi
 Le prompt impose « Ne jamais publier sans validation humaine ». Cette livraison prépare la revue ; elle n’est ni une publication ni une autorisation d’annoncer des commandes disponibles.
 
 Résultat final : npm ci réussi (14 paquets, 0 vulnérabilité signalée).
+
+Correction supplémentaire : suppression du marqueur BOM ajouté par PowerShell dans package.json après détection d’un échec de lecture PostCSS. Construction et contrôle des ressources relancés après correction.
